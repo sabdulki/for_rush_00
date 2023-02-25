@@ -47,6 +47,8 @@ void	print_lines_one_by_one(int x, int y)
 
 int main ()
 {
+
+	// test
 	print_lines_one_by_one(4, 3);
 	return 0;
 }
